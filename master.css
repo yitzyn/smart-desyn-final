@@ -1,0 +1,23 @@
+.btn {
+  background: #65A7CC;
+  border-radius: 11px;
+  padding: 10px 10px;
+  color: #ffffff;
+  display: inline-block;
+  font: normal bold 23px/1 "Open Sans", sans-serif;
+  text-align: center;
+  text-decoration: none;
+  vertical-align: middle;
+  transition-duration: 0.4s;
+}
+
+.btn:hover {
+  border-top-color: #464159;
+  background: #464159;
+  color: #ccc;
+}
+
+.btn:active {
+  border-top-color: #1b435e;
+  background: #1b435e;
+}
